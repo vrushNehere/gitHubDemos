@@ -8,9 +8,5 @@ Add some new feature to file.
 adding new files.
 Adding new changes.
 adding ne GIT data.
-<<<<<<< HEAD
 Adding this line from local.
-=======
-adding New file to git.
-this is LoginCode -From Git
->>>>>>> c6566a0d1380deba1f6407089b4662aeb61164a4
+Hello from local.
